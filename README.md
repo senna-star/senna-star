@@ -57,14 +57,19 @@ building modern websites and creative digital experiences.
 - 🧰 **Senna Tools** — A collection of useful web tools.
 - 💡 **Future Projects** — More ideas coming to life.
 
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Senna--Star-181717?style=for-the-badge&logo=github)](https://github.com/senna-star)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senna-star)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@sopppyan)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tzopy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283125914041)
 
-**Thanks for visiting my profile! 💜**
+<br>
 
-*Keep creating. Keep improving.*
+*Let's connect, collaborate, and build something amazing! 💜*
 
 </div>
+
