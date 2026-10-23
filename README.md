@@ -1,51 +1,45 @@
 
+
 <div align="center">
 
-# ✦ Hey, I'm Senna! 👋
+# Hey, I'm Sofian! 👋
 
-### `Front-End Developer | Creative Coder`
+### Front-End Developer 💻
 
 *Turning ideas into digital experiences.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+Something+Cool;Always+Learning+%26+Growing)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senna-star)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Creative+Coder;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🟣 About Me
+## 💜 About Me
 
-```js
-const senna = {
-  name: "Senna",
-  role: "Front-End Developer",
-  learning: ["JavaScript", "TypeScript", "Python"],
-  interests: ["Web Development", "UI/UX", "Creative Coding"],
-  currentlyBuilding: "Cool web projects",
-  motto: "Learn, Build, Improve. Repeat."
-};
-```
+Hi! I'm **Sofian**, a developer passionate about
+building modern websites and creative digital experiences.
 
-- 💻 Passionate about building modern websites.
-- 🎨 Love creating clean and aesthetic user interfaces.
-- 🚀 Always exploring new technologies.
-- 🌱 Learning something new every day.
-- ⚡ Turning creative ideas into real projects.
+- 💻 Interested in Front-End Development
+- 🎨 Love clean and aesthetic UI designs
+- 🚀 Always learning new technologies
+- 🌱 Improving my coding skills every day
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+### ✦ Keep Learning. Keep Building. ✦
 
 </div>
+
 
 ## 📊 GitHub Stats
 
